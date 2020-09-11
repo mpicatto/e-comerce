@@ -1,0 +1,16 @@
+#boton {
+    /* width: 300px; */
+    padding: 5px;
+    width: 250px;
+}
+
+.shadows{
+	font-family: 'Shadows Into Light', cursive;
+  font-size: 1.0em;
+  color: #63321F;
+  /* width: 200px; */
+}
+
+.margen{
+  margin-top: 40px;
+}

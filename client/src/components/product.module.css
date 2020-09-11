@@ -1,0 +1,52 @@
+
+a {
+  color: #63321F;
+  text-decoration: none;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+
+.fotoDetalle{
+    border-radius: 15px;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.foto{
+    max-height: 300px;
+    align-content: space-between;
+    border-radius: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.title {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  color: #63321F;
+  font-weight: bold;
+}
+
+
+.text {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  color: #63321F;
+}
+
+.botonDetalle1{
+  width: auto;
+  display: block;
+  margin: auto;
+}

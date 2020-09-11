@@ -1,0 +1,87 @@
+
+.total{
+  background-color: rgb(171, 230, 112);
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  font-weight: bold;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+
+.color{
+  background-color: rgb(171, 230, 112);
+  border: solid 2px #44230d;
+}
+
+.borde{
+  border: solid 2px #44230d;
+}
+
+.fotoDetalle{
+    border-radius: 15px;
+    padding: 5px;
+    display: block;
+    margin: auto;
+    width: 100%;
+}
+
+.foto{
+    border-radius: 15px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+
+.title {
+  font-size: 20px;
+  display: flex;
+  justify-content: center;
+  padding: 2px;
+  color: #63321F;
+  font-weight: bold;
+}
+
+
+.text {
+  font-size: 18px;
+  display: flex;
+  justify-content: center;
+  color: #63321F;
+}
+
+.llenarCarrito{
+  width: auto;
+  display: block;
+  margin: auto;
+}
+
+.vaciarCarrito{
+  width: auto;
+  display: block;
+  margin: auto;
+}
+
+.form{
+ max-width: 80%;
+ background-color: rgba(171, 230, 112,0.85);
+ border: solid 2px #44230d;
+ color: #63321F;
+ margin-right: auto;
+ margin-left: auto;
+ border-radius: 10px;
+ margin-top: 75px;
+ padding: 15px;
+}
+
+.catalog{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}

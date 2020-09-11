@@ -1,0 +1,24 @@
+/* .titleCategory {
+  font-size: 1.2rem;
+  font-weight: bold;
+
+} */
+
+
+.shadowsIntoLight {
+  font-family: 'Shadows Into Light', cursive;
+  text-align: center;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+
+
+.fotoDetalle2{
+  border-radius: 15px;
+  /* padding: 50px; */
+  /* display: block; */
+  margin: auto;
+  /* width: 100%; */
+  max-width: 100%;
+}
